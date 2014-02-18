@@ -7,7 +7,7 @@ import cs_sprint2.ExcesoAtributosExceptionAppCS;
 
 /**
  *
- * @author RutJorge
+ 
  */
 public class JugadorDeCampoAppCS extends JugadorAppCS{
     private int velocidad;

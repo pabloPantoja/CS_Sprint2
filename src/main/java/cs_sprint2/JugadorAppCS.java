@@ -9,7 +9,7 @@ import cs_sprint2.PersonaAppCS;
 
 /**
  *
- * @author RutJorge
+
  */
 public abstract class JugadorAppCS extends PersonaAppCS implements Comparable <JugadorAppCS>{
     protected String nombre_deportivo;
