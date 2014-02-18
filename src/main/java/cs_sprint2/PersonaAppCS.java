@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  *
- * @author RutJorge
+
  */
 public class PersonaAppCS implements Serializable {
     protected String dni;
