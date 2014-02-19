@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  *
-
+comentario de prueba de la rama nueva ramaPablo
  */
 public class PersonaAppCS implements Serializable {
     protected String dni;
