@@ -16,6 +16,23 @@ public class PersonaAppCS implements Serializable {
     protected int edad;
     protected double peso;
     protected double altura;
+    
+    
+    //creación de variables inutiles para el testeo
+    protected double peso1;
+    protected double altura1;
+    
+    protected double peso2;
+    protected double altura2;
+    
+    protected double peso3;
+    protected double altura3;
+    
+    protected double peso4;
+    protected double altura4;
+    
+    protected double peso5;
+    protected double altura5;
 
     public String getDni() {
         return dni;
