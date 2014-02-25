@@ -54,6 +54,15 @@ public abstract class JugadorAppCS extends PersonaAppCS implements Comparable <J
     
 
     public String getNombre_deportivo() {
+        nombre_deportivo=nombre_deportivo;
+        nombre_deportivo=nombre_deportivo;
+        nombre_deportivo=nombre_deportivo;
+        nombre_deportivo=nombre_deportivo;
+        nombre_deportivo=nombre_deportivo;
+        if (nombre_deportivo==nombre_deportivo) {
+            nombre_deportivo=nombre_deportivo;
+        }
+                ;
         return nombre_deportivo;
     }
 
