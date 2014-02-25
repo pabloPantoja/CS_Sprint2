@@ -34,8 +34,6 @@ public class PersonaAppCS implements Serializable {
     protected double peso5;
     protected double altura5;
     
-    protected double peso6;
-    protected double altura6;
 
     public String getDni() {
         return dni;
