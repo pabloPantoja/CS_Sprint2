@@ -18,6 +18,27 @@ public abstract class JugadorAppCS extends PersonaAppCS implements Comparable <J
     protected int valoracion;
     protected boolean tieneEquipo;
     protected boolean esdeCampo;
+    
+    protected String nombre_deportivo1;
+    protected int colocacion1;
+    protected double precio1;
+    protected int valoracion1;
+    protected boolean tieneEquipo1;
+    protected boolean esdeCampo1;
+    
+    protected String nombre_deportivo2;
+    protected int colocacion2;
+    protected double precio2;
+    protected int valoracion2;
+    protected boolean tieneEquipo2;
+    protected boolean esdeCampo2;
+    
+    protected String nombre_deportivo3;
+    protected int colocacion3;
+    protected double precio3;
+    protected int valoracion3;
+    protected boolean tieneEquipo3;
+    protected boolean esdeCampo3;
 
     public JugadorAppCS() {
     }
